@@ -1,0 +1,4 @@
+*.ex4
+.doit.db
+*.pyc
+mql.exe
